@@ -6,3 +6,4 @@ updating your username(checkout issue for more details)
 
 * [abhishek71994](https://github.com/abhishek71994)
 * [AhmedAmin](https://github.com/AhmedRedaAmin)
+* [Ashutosh Dwivedi](https://github.com/kindacoder)
