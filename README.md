@@ -5,5 +5,8 @@ This repository is just to make people accustomed to making PRs in Github. Fork 
 updating your username(checkout issue for more details)
 
 * [abhishek71994](https://github.com/abhishek71994)
+* [pritamnegi](https://github.com/pritamnegi)
 * [AhmedAmin](https://github.com/AhmedRedaAmin)
 * [shoutoutloud](https://github.com/shoutoutloud)
+* [Ashutosh Dwivedi](https://github.com/kindacoder)
+* [RahulGoyal](https://github.com/rahulgoyal911)
