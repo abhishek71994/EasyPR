@@ -14,4 +14,8 @@ updating your username(checkout issue for more details)
 * [RahulGoyal](https://github.com/rahulgoyal911)
 * [Ahmad Javed](https://github.com/ahmadjaved97)
 * [Bottersnike](https://github.com/Bottersnike)
+* [HackedByMKN](https://github.com/HackedByMKN)
+* [Lekhika Dugtal](https://github.com/CleverFool77)
+* [Bottersnike](https://github.com/Bottersnike)
+* [lgruelas](https://github.com/lgruelas)
 
